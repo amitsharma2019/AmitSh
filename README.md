@@ -1,2 +1,2 @@
 # AmitSh
-My full name is Amit Sharma
+full name : Amit Sharma
